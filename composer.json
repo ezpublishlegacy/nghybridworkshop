@@ -1,0 +1,19 @@
+{
+    "name": "netgen/nghybridworkshop",
+    "description": "Extension demonstrating hybrid approach in eZ Publish 5.",
+    "type": "ezpublish-legacy-extension",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Netgen",
+            "email": "info@netgen.hr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ezsystems/ezpublish-legacy-installer": "*"
+    },
+    "extra": {
+        "ezpublish-legacy-extension-name": "nghybridworkshop"
+    }
+}
