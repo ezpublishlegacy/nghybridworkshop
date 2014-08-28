@@ -8,3 +8,10 @@
     <input type="submit" value="Download as PDF">
 </form>
 
+<h2>
+Available credits: {symfony_render(
+    symfony_controller(
+        'NetgenHybridApproachBundle:Default:getCredits'
+    )
+)}
+</h2>
