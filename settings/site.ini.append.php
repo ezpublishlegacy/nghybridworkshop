@@ -4,4 +4,4 @@
 PolicyOmitList[]=ngpdf/view
 PolicyOmitList[]=ngpdf/download
 
- ?>
+*/ ?>
